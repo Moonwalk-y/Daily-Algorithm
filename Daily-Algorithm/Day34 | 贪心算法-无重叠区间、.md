@@ -28,3 +28,7 @@ public:
 ## 划分字母区间
 ### 链接
 [https://leetcode.cn/problems/partition-labels/description/]
+### 解法
+### 代码
+```
+```
